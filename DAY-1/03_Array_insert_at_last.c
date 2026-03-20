@@ -1,4 +1,4 @@
-// 1.Write a program in C to insert a new element to an array at last position:
+// Q3.Write a program in C to insert a new element to an array at last position:
 
 #include <stdio.h>
 

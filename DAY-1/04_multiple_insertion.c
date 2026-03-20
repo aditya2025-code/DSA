@@ -1,4 +1,4 @@
-// 1.Write a program in C to insert multiple new element to an array at different position:
+// Q4.Write a program in C to insert multiple new element to an array at different position:
 
 #include <stdio.h>
 
