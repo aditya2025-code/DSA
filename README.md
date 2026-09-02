@@ -1,4 +1,4 @@
-# DSA Learning
+# DSA 
 
 Small programs and exercises for learning Data Structures and Algorithms.
 
